@@ -8,3 +8,4 @@ git commit -m '<msg>'
 git status
 git log
 git checkout -b <branchName>
+git checkout <branchName>
