@@ -17,4 +17,5 @@ git remote add origin <url>
 git remote -v
 
 git push origin <branchName>
+git push origin --tags
 ```
