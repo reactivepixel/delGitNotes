@@ -1,5 +1,6 @@
 # Commands
 
+```bash
 git init
 git add <filename>
 git add -A
@@ -16,3 +17,4 @@ git remote add origin <url>
 git remote -v
 
 git push origin <branchName>
+```
