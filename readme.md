@@ -11,3 +11,8 @@ git checkout -b <branchName>
 git checkout <branchName>
 
 git merge <otherBranchName>
+
+git remote add origin <url>
+git remote -v
+
+git push origin <branchName>
